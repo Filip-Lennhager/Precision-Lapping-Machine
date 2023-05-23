@@ -6,6 +6,12 @@ This project was created by
 
 ## Control System
 
-The model is in the file [`StirlingversalV2-1.png`](StirlingversalV2-1.png):
+An overview of the electrical schematic can be found in the file: [`Precision-Lapping-Machine-1.png`](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-1.png):
 
-![plot](Control_System/PCB/Electrical_Schematic/StirlingversalV2-1.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-1.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-2.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-3.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-4.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-5.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-6.png)
+![plot](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-7.png)
