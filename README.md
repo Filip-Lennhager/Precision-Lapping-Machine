@@ -8,4 +8,4 @@ This project was created by
 
 The model is in the file [`StirlingversalV2-1.png`](StirlingversalV2-1.png):
 
-![plot](Control_System\PCB\Electrical_Schematic\StirlingversalV2-1.png)
+![plot](Control_System/PCB/Electrical_Schematic/StirlingversalV2-1.png)
