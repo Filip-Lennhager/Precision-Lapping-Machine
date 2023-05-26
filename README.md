@@ -43,7 +43,7 @@ CAD model of the prototype:
 
 ### PCB
 
-![plot](Control_System/PCb/PCB_CAD.png)
+![plot](Control_System/PCB/PCB_CAD.png)
 
 #### Electrical Schematic
 
