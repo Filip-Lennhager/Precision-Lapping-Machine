@@ -3,12 +3,12 @@
 This project was created by:
 
 + Filip Lennhager, `filip@lennhager.se`
++ Filip Karlsson
 + Albin Magnusson
++ Ali Halbastian Abdulla
 + Anton Meuller
 + Christian Mallqui Castro
 + Toni Carillo
-+ Filip Karlsson
-+ Toni Carrillo
 
 ## Table of Contents
 
@@ -25,15 +25,21 @@ This project was created by:
 
 CAD model of the prototype:
 
+![plot](Prototype/Prototype.png)
+
 ## Disc and Fixation
 
-![plot](Prototype/wheelArm2.STL)
+![plot](Prototype/Disc.png)
+![plot](Prototype/Arm.png)
+![plot](Prototype/Weight.png)
 
 ## Gearbox
 
 ![plot](Gearbox/Gearbox.png)
 
 ## Control System
+
+![plot](Control_System/Control_System_Block_Diagram.png)
 
 ### PCB
 
