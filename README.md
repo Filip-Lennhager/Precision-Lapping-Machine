@@ -43,6 +43,8 @@ CAD model of the prototype:
 
 ### PCB
 
+![plot](Control_System/PCb/PCB_CAD.png)
+
 #### Electrical Schematic
 
 An overview of the electrical schematic can be found in the file: [`Precision-Lapping-Machine-1.png`](Control_System/PCB/Electrical_Schematic/Precision-Lapping-Machine-1.png):
