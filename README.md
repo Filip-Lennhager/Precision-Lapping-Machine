@@ -63,12 +63,14 @@ Schematic of PCB with physical component placement:
 
 Gerber and drill files for pcb fabrication:
 
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-F_Silkscreen.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-F_Mask.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-F_Paste.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-F_Cu.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-B_Cu.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-B_Paste.gbr)
-![plot](Control_System/PCB/Gerber_Drl/Precision-Lapping-Machine-B_Mask.gbr)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(1).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(2).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(3).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(4).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(5).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(6).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(7).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(8).png)
+![plot](Control_System/PCB/Gerber_Drl/PCB_(9).png)
 
 ### Code
